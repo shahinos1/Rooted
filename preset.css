@@ -1,0 +1,15 @@
+html {
+  font-size: 10px;
+}
+
+html,
+body {
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+menu,
+ul {
+  list-style: none;
+}

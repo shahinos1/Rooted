@@ -1,0 +1,24 @@
+header {
+  background: #8c4820;
+  color: #fff;
+  box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.2);
+}
+
+menu a {
+  text-decoration: none;
+  color: #fff;
+}
+
+menu a:hover {
+  text-decoration: underline;
+}
+
+main {
+  background: #f29f05;
+}
+
+.main-content {
+  background: #fff;
+  color: #592c1c;
+  box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.1);
+}
