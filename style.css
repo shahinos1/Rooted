@@ -1,5 +1,5 @@
 header {
-  background: #8c4820;
+  background: #322605;
   color: #fff;
   box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.2);
 }
@@ -14,11 +14,11 @@ menu a:hover {
 }
 
 main {
-  background: #f29f05;
+  background: #e0a40c;
 }
 
 .main-content {
-  background: #fff;
-  color: #592c1c;
+  background: #eaece4;
+  color: #284329;
   box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.1);
 }
