@@ -1,0 +1,50 @@
+.glide__track li {
+  padding: 4rem 10rem;
+}
+
+.glide__arrow {
+  border-radius: 50%;
+  border: 2px solid #592c1c;
+  background: #f29f05;
+  color: #592c1c;
+}
+
+.glide__arrow:hover {
+  border-color: #f29f05;
+}
+
+.glide__arrow .arrow {
+  border: solid #592c1c;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+}
+
+.glide__arrow .arrow.right {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+
+.glide__arrow .arrow.left {
+  transform: rotate(135deg);
+  -webkit-transform: rotate(135deg);
+}
+
+.glide__bullet,
+.glide__bullet:focus {
+  width: 2rem;
+  height: 2rem;
+  background: #bf5b04;
+  border-color: #bf5b04;
+}
+
+.glide__bullet:hover {
+  background: #8c4820;
+  border-color: #8c4820;
+}
+
+.glide__bullet--active,
+.glide__bullet--active:focus {
+  background: #592c1c;
+  border-color: #592c1c;
+}

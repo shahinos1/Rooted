@@ -1,0 +1,8 @@
+{
+  "name": "rooted-package",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@glidejs/glide": "3.6.0"
+  }
+}
