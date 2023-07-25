@@ -38,6 +38,6 @@ main {
 
 .main-content {
   width: min(100vw, 1264px);
-  padding: 0 8rem;
+  padding: 0 2rem;
   box-sizing: border-box;
 }
